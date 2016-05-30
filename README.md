@@ -38,3 +38,11 @@ We need to make it possible to extraxt and push photos to the online database. W
 ### Similair applications
 - It's an instagram like app, only in instagram it's not possible to make groups and add photos to a group and let only people in that group see it. The layout and will be quiet alike, only the purpose quiet different. You'll use the app during and after events but after you've extracted the photos it won't be nescessary to use the app untill the next event. 
 - It's similair to facebook, as in that facebook is able to create groups and post things online for only a group. Only this isn't used (because of the interface) as an app to keep everyone up to date and to make instagram like posts. 
+
+## Photos
+![alt text](https://github.com/emmpiiee/ProjectMinorProg/blob/master/doc/IMG_9379.JPG "Logo Title Text 1")
+![alt text](https://github.com/emmpiiee/ProjectMinorProg/blob/master/doc/IMG_9380.JPG "Logo Title Text 1")
+![alt text](https://github.com/emmpiiee/ProjectMinorProg/blob/master/doc/IMG_9381.JPG "Logo Title Text 1")
+![alt text](https://github.com/emmpiiee/ProjectMinorProg/blob/master/doc/IMG_9382.JPG "Logo Title Text 1")
+![alt text](https://github.com/emmpiiee/ProjectMinorProg/blob/master/doc/IMG_9383.JPG "Logo Title Text 1")
+![alt text](https://github.com/emmpiiee/ProjectMinorProg/blob/master/doc/IMG_9385.JPG "Logo Title Text 1")
