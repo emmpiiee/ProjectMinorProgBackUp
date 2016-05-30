@@ -27,10 +27,14 @@ Seperate parts of the app can be defined.
 - (optional) You'll need an option to see other the profile and the pictures other guest posted.
 
 ### API
-We need to create our own online database, which can handle the size of a photo. The API of dropbox will fullfill this whish. 
-We need to make it possible to extraxt and push photos to the online database. 
+We need to create our own online database, which can handle the size of a photo. The API of Dropbox will fullfill this whish. 
+We need to make it possible to extraxt and push photos to the online database. We wont use the API of instagram because this will require the user to also upload photos on their timeline on instagram. This will not work because maybe some photos you'll want to post on the event app, you'll not want to post on your instagram account. 
 
 ### Difficulties
+- It will be difficult to create an online database with the size of photos and extract these.
+- It will be difficult to let someone login in, on different weddings.
+- It will be difficult to make certain the photos are private. 
 
 ### Similair applications
-- It's an instagram like app, only in instagram it's not possible to make groups and add photos to a group and only people in that group can see it.
+- It's an instagram like app, only in instagram it's not possible to make groups and add photos to a group and let only people in that group see it. The layout and will be quiet alike, only the purpose quiet different. You'll use the app during and after events but after you've extracted the photos it won't be nescessary to use the app untill the next event. 
+- It's similair to facebook, as in that facebook is able to create groups and post things online for only a group. Only this isn't used (because of the interface) as an app to keep everyone up to date and to make instagram like posts. 
