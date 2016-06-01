@@ -7,3 +7,7 @@ Tijdens de groepssessie hebben we gebrainstormd over een naam --> Packtag. Ook h
 
 ## Dag 3
 Bedacht dat camera ook een API is, dus readme aangepast. 
+Bezig met de opdracht van vandaag. UML loop tegen classes aan, welke zijn nou echt nodig. Vervolgens ook nog de installatie van Dropbox ging niet goed. Hebben we opgelost, door middel van tekst bestand toe te voegen aan xcode map. nu dropbox API goed geinstalleerd, problemen met de openen van de verkeerde workspace, moet andere workspace openen. 
+Ook MVP aangepast, dus de readme oook aangepast. 
+
+
